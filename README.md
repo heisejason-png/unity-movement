@@ -76,4 +76,5 @@ The API reference for this package can be found [here](https://oculus-samples.gi
 Copyright (c) Meta Platforms, Inc. and affiliates. All rights reserved. Your use of this SDK or tool is subject to the Oculus SDK License Agreement, available at https://developer.oculus.com/licenses/oculussdk/
 
 Files from [Unity](https://unity.com/legal/licenses/unity-companion-license) and [SchemingDeveloper](https://github.com/oculus-samples/Unity-Movement/blob/main/Runtime/Tracking/ThirdParty/SchemingDeveloper/LICENSE.txt) are licensed under their respective licensing terms.
-Created by Jason Heise https://next.frame.io
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
